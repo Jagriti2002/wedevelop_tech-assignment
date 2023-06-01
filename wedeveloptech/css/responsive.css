@@ -144,8 +144,8 @@
         gap: .50rem;
     }
     .footer-copyright{
-        justify-content: center;
-        margin-left: -3rem;
+        justify-content: start;
+        align-items: start;
     }
     .footer-content img{
         width: 10px;
